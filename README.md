@@ -9,5 +9,4 @@ Skills: MongoDB, Sequelize, PostgreSql, ReactJS, React-Redux, NodeJS, Javascript
 - 📫 How to reach me: dabuaf@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/daniel-abuaf-fullstack-dev//)  
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/daniel-abuaf-fullstack-dev/)  
