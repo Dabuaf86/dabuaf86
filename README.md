@@ -1,7 +1,3 @@
-<p>Skills: MongoDB, Sequelize, Mongoose, LESS, TypeScript</p>
-
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/canva.svg' alt='resume' height='40'>](https://www.canva.com/design/DAElK-por24/YiCXVmsiIn9pHr9G7Yoj1g/view?utm_content=DAElK-por24&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) - Find my resume
-___________________________________________________________________________________
 <div>
 <div align="center">
       <h2>Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;"></a> My name is Daniel and I'm a FullStack Developer eager to learn and to keep on developing</h2>
@@ -56,5 +52,12 @@ ________________________________________________________________________________
   <img src="https://camo.githubusercontent.com/22d1116e541b7b380161ed7c77ceb24e5e88a71acbec6d9dae7a5624b23a46fd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742532302d2532334630353033332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/git%20-%23F05033.svg?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width:100%;">
   </a>
   <a href="https://github.com/">
-  <img src="https://camo.githubusercontent.com/6aea43d076c7bf00489f1b347caa33fe5c4d84a8af2983804f8702632f2669ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622532302d2532333132313031312e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/github%20-%23121011.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width:100%;">  
+  <img src="https://camo.githubusercontent.com/6aea43d076c7bf00489f1b347caa33fe5c4d84a8af2983804f8702632f2669ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622532302d2532333132313031312e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/github%20-%23121011.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width:100%;"><hr>       
+
+  <div align="center">
+      <h2>EXTRA EXTRA!<br>Read all about it!👇</h2>
+      <a href="https://www.canva.com/design/DAElK-por24/YiCXVmsiIn9pHr9G7Yoj1g/view?utm_content=DAElK-por24&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/canva.svg" alt='canva' height='40'>
+      </a>
+      </div>    
 </div>
