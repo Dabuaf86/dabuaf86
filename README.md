@@ -11,10 +11,10 @@
 </div>
 </div>
 <div align="center">
-      <h3>I just recently finished a collaborative project with 6 other students from #Henry's super intensive bootcamp.</h3>
+      <h3>Last year I graduated from #Henry's super intensive bootcamp as full-stack developer and started my first working project working as a frontender for the PAAS platform at Puzzle Digital.</h3>
 </div>
 <div align="center">
-      <h3>Find the repo here!<br>👇</h3>
+      <h3>Find the last collaborative repo I worked on during that bootcamp down here!<br>👇</h3>
       <a href="https://github.com/LeandroCadena/Esthetic-App">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" data-canonical-src="https://img.shields.io/badge/gmail-%23E4405F.svg?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width:100%;" alt='github' height='50'>
       </a>
