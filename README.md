@@ -6,7 +6,7 @@
       <a href="mailto:dabuaf@gmail.com">
       <img src="https://camo.githubusercontent.com/1957cd5b25a5775c7f1912e1274914cdb4a9f325caae84ca68fc8ecb22009e1e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532334534343035462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/gmail-%23E4405F.svg?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width:100%;">
       </a>
-      <a href="https://www.linkedin.com/in/daniel-abuaf-fullstack-dev/" rel="nofollow">
+      <a href="https://www.linkedin.com/in/daniel-abuaf-fullstack-dev/" rel="nofollow" target=”_blank”>
       <img src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;">
 </div>
 </div>
@@ -15,7 +15,7 @@
 </div>
 <div align="center">
       <h3>Find the last collaborative repo I worked on during that bootcamp down here!<br>👇</h3>
-      <a href="https://github.com/LeandroCadena/Esthetic-App">
+      <a href="https://github.com/LeandroCadena/Esthetic-App" target=”_blank”>
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" data-canonical-src="https://img.shields.io/badge/gmail-%23E4405F.svg?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width:100%;" alt='github' height='50'>
       </a>
 </div>
